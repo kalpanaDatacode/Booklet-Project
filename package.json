@@ -1,0 +1,41 @@
+{
+  "name": "my-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+ "homepage": "https://kalpanaDatacode.github.io/Booklet1-Datacode",
+
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@reduxjs/toolkit": "^2.9.0",
+    "bootstrap": "^5.3.8",
+    "lucide-react": "^0.544.0",
+    "react": "^19.1.1",
+    "react-circular-progressbar": "^2.2.0",
+    "react-dom": "^19.1.1",
+    "react-icons": "^5.5.0",
+    "react-modal": "^3.16.3",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.8.2",
+    "sass": "^1.92.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react": "^5.0.0",
+    "eslint": "^9.33.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "gh-pages": "^6.3.0",
+    "globals": "^16.3.0",
+    "vite": "^7.1.2"
+  }
+}
