@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
- "homepage": "https://kalpanaDatacode.github.io/Booklet1-Datacode",
-
+  "homepage": "https://kalpanaDatacode.github.io/Booklet-Project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
