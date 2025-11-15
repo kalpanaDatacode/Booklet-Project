@@ -4,7 +4,7 @@
 
 A modern and responsive Books Library Web App built using **React.js**, **SCSS**, **Bootstrap**, and **Figma UI** design.
 
-Live Demo: *(add your link here)*
+Live Demo:  https://kalpanadatacode.github.io/Booklet-Project/
 
 ---
 
